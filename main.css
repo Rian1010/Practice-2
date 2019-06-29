@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+    .column{
+        float: left;
+        height:30px;
+        width: 30%;
+        background-color: #000;
+        margin: 10px 10px;
+    }
+}
